@@ -1,2 +1,2 @@
 # project
-this is final project called"Summery project"
+Education project using html , css and javascript
